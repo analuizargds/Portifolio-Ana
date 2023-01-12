@@ -27,7 +27,7 @@ __________________________________________________________________
 
 ![Headache Log](https://github.com/analuizargds/Portifolio-Ana/blob/main/images/headache_img.jpeg)
 
-Um diário de dor de cabeça desenvolvido com o paradígma de Programação Orientada a Objetos. Esse projeto foi bastante desafiador pois no começo eu não conhecia a linguagem java, mas com muito esforço e ajuda dos meus colegas consegui finalizar o projeto. Foi implementado dois CRUD's, duas buscas e três listagem de dados.
+Um diário de dor de cabeça desenvolvido com o paradígma de Programação Orientada a Objetos. Esse projeto foi bastante desafiador pois no começo eu não conhecia a linguagem java, mas com muito esforço e ajuda dos meus colegas consegui finalizar o projeto. É possível cadastrar uma dor e uma medicação utilizada, consultar todas as dores cadastradas, vizualizar uma dor detalhada, consultar dores por data e ter ver um relatório geral baseado nas dores cadastradas.
 
 **Implementação** 
 * Dois CRUD's
