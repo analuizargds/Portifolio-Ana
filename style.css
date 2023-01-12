@@ -272,7 +272,8 @@ p{
     flex-basis: 50%;
     display: inline-block;
     width: 40%;
-    align-items: center;
+    margin-left: 60px;
+    margin-top: 20px;
     
 }
 
