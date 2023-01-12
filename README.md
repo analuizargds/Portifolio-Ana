@@ -14,11 +14,14 @@ Olá, meu nome é Ana Luiza, sou estudante de Engenharia de Software na Universi
 
 O Mark it é uma aplicação baseada no Ifood, mas focado em agendamento ao invés de comida. Cada vendedor poderá cadastrar sua loja ou seu serviço no site, assim que cadastrado os clientes poderão ver seus serviços e fazer um agendamento se desejarem. Por exemplo: Marcos tem uma barbearia e seus clientes nessecitam ir ao estabelecimento e marcar horário. Para facilitar a vida de seus clientes, Marcos pode cadastrar sua barbearia no site, assim seus clientes poderão ver os horários disponíveis e agendar pelo próprio site. Essa aplicação foi desenvolvida por alunos do 2º semestre de Engenharia de Software da Unb para a matéria de Desenvolvimento de Software. Os alunos trabalharam no projeto por certa de 3 meses supervisionados por um aluno formando.
 
+
 **Tecnologias e métodos utilizados**
 * Angular
 * Django REST Framework
 * Pair Programming
 * Scrum
+
+[Repositório do projeto](https://github.com/FeudoAmareloGirassol/FeudoAmareloGirassol)
 __________________________________________________________________
 
 ### Headache Log
@@ -43,3 +46,5 @@ Um diário de dor de cabeça desenvolvido com o paradígma de Programação Orie
 ![Headache Log](https://github.com/analuizargds/Portifolio-Ana/blob/main/images/headache(3).png)
 
 ![Headache Log](https://github.com/analuizargds/Portifolio-Ana/blob/main/images/headache(4).png)
+
+[Repositório do projeto](https://github.com/analuizargds/Headache-Log)
