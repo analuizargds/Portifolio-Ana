@@ -2,7 +2,7 @@
 
 ## Apresentação
 
-Olá, meu nome é Ana Luiza, sou estudante de Engenharia de Software na Universidade de Brasília (UnB). Estou no 4º semestre e esses são alguns projetos em que eu trabalhei durante o curso
+Olá, meu nome é Ana Luiza, sou estudante de Engenharia de Software na Universidade de Brasília (UnB). Estou no 4º semestre e esses são alguns projetos em que eu trabalhei durante o curso.
 
 ## Projetos
 
@@ -26,11 +26,11 @@ __________________________________________________________________
 
 ### Headache Log
 
-**Projeto para a matéria de Orientação a Objetos utilizando Java e os paradigmas de OO.**
+**Projeto para a matéria de Orientação a Objetos utilizando Java e os paradigmas de Programação Orientada a Objetos.**
 
 ![Headache Log](https://github.com/analuizargds/Portifolio-Ana/blob/main/images/headache_img.jpeg)
 
-Um diário de dor de cabeça desenvolvido com o paradígma de Programação Orientada a Objetos. Esse projeto foi bastante desafiador pois no começo eu não conhecia a linguagem java, mas com muito esforço e ajuda dos meus colegas consegui finalizar o projeto. É possível cadastrar uma dor e uma medicação utilizada, consultar todas as dores cadastradas, vizualizar uma dor detalhada, consultar dores por data e ter ver um relatório geral baseado nas dores cadastradas.
+Um diário de dor de cabeça desenvolvido com o paradígma de Programação Orientada a Objetos. É possível cadastrar uma dor e uma medicação utilizada, consultar todas as dores cadastradas, vizualizar uma dor detalhada, consultar dores por data e ver um relatório geral baseado nas dores cadastradas.Esse projeto foi bastante desafiador pois no começo eu não conhecia a linguagem java, mas com muito esforço e ajuda dos meus colegas consegui finalizar o projeto.
 
 **Implementação** 
 * Dois CRUD's
