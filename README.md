@@ -2,7 +2,7 @@
 
 ## Apresentação
 
-Olá, meu nome é Ana Luiza, sou estudante de Engenharia de Software na Universidade de Brasília (UnB). Estou no 4º semestre e esses são alguns projetos em que eu trabalhei durante o curso.
+Olá, meu nome é Ana Luiza, sou estudante de Engenharia de Software na Universidade de Brasília (UnB). Estou no 4º semestre e esses são os projetos em que eu trabalhei durante o curso.
 
 ## Projetos
 
